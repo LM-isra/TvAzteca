@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Oracle.EntityFrameworkCore" Version="2.19.70" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TvAzteca.Core\TvAzteca.Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TvAzteca.Api", "TvAzteca.Api\TvAzteca.Api.csproj", "{584A3B2C-D9B3-4F8A-9EDF-B5D02A5CDA99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TvAzteca.Core", "TvAzteca.Core\TvAzteca.Core.csproj", "{3DC4593B-1F9B-4BB5-8887-550D5441729E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TvAzteca.Services", "TvAzteca.Services\TvAzteca.Services.csproj", "{84D439BB-CD5B-474A-8328-EEAF280B638B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TvAzteca.Data", "TvAzteca.Data\TvAzteca.Data.csproj", "{142CF92E-99A9-472B-A7E5-991B388A25DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584A3B2C-D9B3-4F8A-9EDF-B5D02A5CDA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584A3B2C-D9B3-4F8A-9EDF-B5D02A5CDA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584A3B2C-D9B3-4F8A-9EDF-B5D02A5CDA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584A3B2C-D9B3-4F8A-9EDF-B5D02A5CDA99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC4593B-1F9B-4BB5-8887-550D5441729E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC4593B-1F9B-4BB5-8887-550D5441729E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC4593B-1F9B-4BB5-8887-550D5441729E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC4593B-1F9B-4BB5-8887-550D5441729E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D439BB-CD5B-474A-8328-EEAF280B638B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D439BB-CD5B-474A-8328-EEAF280B638B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D439BB-CD5B-474A-8328-EEAF280B638B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D439BB-CD5B-474A-8328-EEAF280B638B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{142CF92E-99A9-472B-A7E5-991B388A25DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142CF92E-99A9-472B-A7E5-991B388A25DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142CF92E-99A9-472B-A7E5-991B388A25DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142CF92E-99A9-472B-A7E5-991B388A25DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C71CF5F0-ED7C-4A9B-A8AE-AAE9D6104126}
+	EndGlobalSection
+EndGlobal
